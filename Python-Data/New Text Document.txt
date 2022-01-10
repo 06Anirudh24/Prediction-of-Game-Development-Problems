@@ -1,0 +1,7 @@
+1-tfidf
+2.skg
+3.cbow
+4. w2v
+5. fat
+6. glove
+7. bert
